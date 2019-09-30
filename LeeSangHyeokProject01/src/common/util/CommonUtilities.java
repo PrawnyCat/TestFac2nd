@@ -4,6 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//testing codes
 public class CommonUtilities {
 	//입력값이 숫자인지 판단하는 메소드
 	public static boolean isNumber(String value) {		
