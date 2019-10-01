@@ -89,6 +89,7 @@ public class CommonUtilities {
 		}
 		
 		
+		
 		//초성이 한글이 아닌 경우
 		return '0';
 	
@@ -96,5 +97,9 @@ public class CommonUtilities {
 		
 	}
 	
+	//testing code 2nd
+	public void printMessage(String message) {
+		System.out.println("Your message is : "+ message);
+	}
 	
 }
